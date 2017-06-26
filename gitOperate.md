@@ -1,1 +1,0 @@
-gitOperate.pdf文件是有道笔记整理的git操作规范。
